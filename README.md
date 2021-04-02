@@ -1,4 +1,4 @@
-# focuser
+# Focuser
 
 Focuser is a very simple Python/Tkinter based GUI for controlling a stepper motor attached to Adafruit Motor HAT for Raspberry Pi. Focuser was created to control a telescope focuser remotely, but it might be useful in other application as well.
 
