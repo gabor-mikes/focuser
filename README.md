@@ -6,4 +6,6 @@ Focuser is a very simple Python/Tkinter based GUI for controlling a stepper moto
 
 Please visit Adafruit for instructions on how to configure the Raspberry Pi and install Python3 and MotorKit Library.
 
-Additionaly, please install Tkinter for Phyton 3: sudo apt-get install python3-tk
+Additionaly, please install Tkinter for Phyton 3:
+
+  sudo apt-get install python3-tk
